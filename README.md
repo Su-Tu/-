@@ -102,9 +102,8 @@ module.exports = db;
 <img src='./src/static/md_img/image.png' width='30%'>
 <img src='./src/static/md_img/image01.png' width='30%'>
 <img src='./src/static/md_img/image03.png' width='30%'>
-
 </div>
-![alt text](image.png)
+
 <div style='display:flex;justify-content:space-around'>
 <img src='./src/static/md_img/image04.png' width='30%'>
 <img src='./src/static/md_img/image05.png' width='30%'>
